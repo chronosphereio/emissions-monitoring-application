@@ -1,0 +1,13 @@
+{
+    "name": "helloworld",
+    "description": "Simple hello world sample in Node",
+    "version": "1.0.0",
+    "private": true,
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "engines": {
+      "node": ">=12.0.0"
+    }
+  }
